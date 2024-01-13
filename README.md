@@ -76,8 +76,6 @@ This project is accompanied by a detailed research paper that delves into the me
 
 Title: "Covid-19 Detection using Deep Learning"
 
-Abstract: [Brief summary of your research paper]
-
 The full paper can be accessed [here](http://ijmtst.com/volume6/issue12/81.IJMTST0612212.pdf).
 
 For more detailed information and a comprehensive understanding of the project's scientific background, please refer to the research paper.
